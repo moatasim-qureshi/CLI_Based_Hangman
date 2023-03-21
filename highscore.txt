@@ -9,3 +9,4 @@ faseeh 10
 faseeh2 0
 moatasim 0
 mq 0
+MOTasim 0
