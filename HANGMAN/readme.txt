@@ -1,0 +1,1 @@
+password for admin panel is "admin"
